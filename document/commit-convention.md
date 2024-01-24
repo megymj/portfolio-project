@@ -1,8 +1,6 @@
 # Commit Convention 정리
 
-
-📍  git commit message convention `ex) feat : 변경 내용 (/#issue num)`
-
+📍 git commit message convention `ex) feat : 변경 내용 (/#issue num)`
 
 ```
 - feat:      새로운 기능 구현
